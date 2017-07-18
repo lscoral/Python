@@ -41,12 +41,12 @@ if __name__ == '__main__':
     sendmail(sender,receivers,user,pwd,subject,txt,files)
 
 # example:
-# sender = 'zhijie.liao@dmall.com'
-# receivers = ['zhijie.liao@dmall.com']
-# user ='zhijie.liao@dmall.com'
-# pwd = 'Smarter1025@@'
-# subject = '昨日未动销商品为售罄状态的门店量'
-# txt = '各位，附件是昨日O2O和QQJX未动销商品全天均为售罄状态门店量，请查收，如有问题，请及时联系zhijie.liao@dmall.com'
-# files = {r'C:/Users/lscor/Desktop/yuebao_GMV_02.csv':'o2o_ware.csv',r'C:/Users/lscor/Desktop/f.csv':'qqjx_ware.csv'}
+# sender = '***'
+# receivers = ['***','***']
+# user ='***'
+# pwd = '***'
+# subject = '***'
+# txt = '***'
+# files = {r'C:/Users/lscor/Desktop/test.csv':'test.csv',r'C:/Users/lscor/Desktop/f.csv':'test.csv'}
 #
 # sendmail(sender,receivers,user,pwd,subject,txt,files)
