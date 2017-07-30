@@ -1,2 +1,3 @@
 # python
-PythonProject
+Python一些练手code
+写着玩……
